@@ -1,0 +1,2 @@
+# openShiftRepo
+Creating own repository
